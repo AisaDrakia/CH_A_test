@@ -1,0 +1,705 @@
+fileFormatVersion: 2
+guid: e15e773466752e747896aad6beb962c7
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 7167431495849214059
+    second: rocks.001|alligator|Take 001|Layer 001
+  - first:
+      74: -860874357924496830
+    second: rocks.001|alligator|Take 001|Layer 001.001
+  - first:
+      74: 5100142910871489624
+    second: rocks.001|base (2)|Take 001|Layer 001
+  - first:
+      74: 5748705931810171586
+    second: rocks.001|base (2)|Take 001|Layer 001.001
+  - first:
+      74: 7966434469199250399
+    second: rocks.001|base (3)|Take 001|Layer 001
+  - first:
+      74: -8544683973691362793
+    second: rocks.001|base (3)|Take 001|Layer 001.001
+  - first:
+      74: 6252569072454164393
+    second: rocks.001|base (4)|Take 001|Layer 001
+  - first:
+      74: -3948770117835170394
+    second: rocks.001|base (4)|Take 001|Layer 001.001
+  - first:
+      74: -918039273897597047
+    second: rocks.001|base|Take 001|Layer 001
+  - first:
+      74: 4224527863951275668
+    second: rocks.001|base|Take 001|Layer 001.001
+  - first:
+      74: -8440493441792321118
+    second: rocks.001|Camera.001|Take 001|Layer 001
+  - first:
+      74: 6398732782362700216
+    second: rocks.001|Directional Light|Take 001|Layer 001
+  - first:
+      74: 8831051454494833950
+    second: rocks.001|elephant|Take 001|Layer 001
+  - first:
+      74: -693494966899609189
+    second: rocks.001|elephant|Take 001|Layer 001.001
+  - first:
+      74: -6471996693010295353
+    second: rocks.001|gazelle (2)|Take 001|Layer 001
+  - first:
+      74: 3425275053601253389
+    second: rocks.001|gazelle (2)|Take 001|Layer 001.001
+  - first:
+      74: 2809166664715003508
+    second: rocks.001|giraffes|Take 001|Layer 001
+  - first:
+      74: 6078750580687377477
+    second: rocks.001|giraffes|Take 001|Layer 001.001
+  - first:
+      74: -2934430249978928123
+    second: rocks.001|grass|Take 001|Layer 001
+  - first:
+      74: -2329723248905981375
+    second: rocks.001|grass|Take 001|Layer 001.001
+  - first:
+      74: -5932434248649448498
+    second: rocks.001|land_v2|Take 001|Layer 001
+  - first:
+      74: 4362821554049197683
+    second: rocks.001|land_v2|Take 001|Layer 001.001
+  - first:
+      74: 9104433821078500738
+    second: rocks.001|land|Take 001|Layer 001
+  - first:
+      74: 8605218453729200607
+    second: rocks.001|land|Take 001|Layer 001.001
+  - first:
+      74: -8960401389091511193
+    second: rocks.001|leaves (2)|Take 001|Layer 001
+  - first:
+      74: -8634943310938156729
+    second: rocks.001|leaves (2)|Take 001|Layer 001.001
+  - first:
+      74: 5307256487823619381
+    second: rocks.001|leaves (3)|Take 001|Layer 001
+  - first:
+      74: 6755607399055939520
+    second: rocks.001|leaves (3)|Take 001|Layer 001.001
+  - first:
+      74: 1819448965951746339
+    second: rocks.001|leaves (4)|Take 001|Layer 001
+  - first:
+      74: -2262568755375230240
+    second: rocks.001|leaves (4)|Take 001|Layer 001.001
+  - first:
+      74: 3738586654930143692
+    second: rocks.001|leaves|Take 001|Layer 001
+  - first:
+      74: 539624978847251052
+    second: rocks.001|leaves|Take 001|Layer 001.001
+  - first:
+      74: 7668658229678004962
+    second: rocks.001|lions|Take 001|Layer 001
+  - first:
+      74: -535145365667639682
+    second: rocks.001|lions|Take 001|Layer 001.001
+  - first:
+      74: 6759121200945607078
+    second: rocks.001|marabou|Take 001|Layer 001
+  - first:
+      74: -6549790947239590153
+    second: rocks.001|marabou|Take 001|Layer 001.001
+  - first:
+      74: -4602261536927827429
+    second: rocks.001|Mesh.002|Take 001|Layer 001
+  - first:
+      74: -6848754851664451050
+    second: rocks.001|Mesh.003|Take 001|Layer 001
+  - first:
+      74: 8504575647865283064
+    second: rocks.001|Mesh|Take 001|Layer 001
+  - first:
+      74: 2836439043488288693
+    second: rocks.001|Mesh|Take 001|Layer 001.001
+  - first:
+      74: -7577897375225149803
+    second: rocks.001|Mesh|Take 001|Layer 001.002
+  - first:
+      74: 6463358163888017280
+    second: rocks.001|Mesh|Take 001|Layer 001.003
+  - first:
+      74: 973190796469819962
+    second: rocks.001|Mesh|Take 001|Layer 001.004
+  - first:
+      74: -5829332216079700846
+    second: rocks.001|Mesh|Take 001|Layer 001.005
+  - first:
+      74: -5683527328405820232
+    second: rocks.001|Mesh|Take 001|Layer 001.006
+  - first:
+      74: 8710616120445196050
+    second: rocks.001|Mesh|Take 001|Layer 001.007
+  - first:
+      74: -1178350656959622247
+    second: rocks.001|rocks (2)|Take 001|Layer 001
+  - first:
+      74: 6160160542789489113
+    second: rocks.001|rocks (2)|Take 001|Layer 001.001
+  - first:
+      74: 4312464458752783286
+    second: rocks.001|rocks|Take 001|Layer 001
+  - first:
+      74: -4822686821872940253
+    second: rocks.001|rocks|Take 001|Layer 001.001
+  - first:
+      74: -2055099859218555461
+    second: rocks.001|Texture Group|Take 001|Layer 001
+  - first:
+      74: -3464207167709529293
+    second: rocks.001|Tree 01|Take 001|Layer 001
+  - first:
+      74: -2425581239909556458
+    second: rocks.001|Tree 01|Take 001|Layer 001.001
+  - first:
+      74: -7906727612456378332
+    second: rocks.001|Tree 02|Take 001|Layer 001
+  - first:
+      74: -6055345330151726258
+    second: rocks.001|Tree 02|Take 001|Layer 001.001
+  - first:
+      74: 6181007026164787592
+    second: rocks.001|Tree 03|Take 001|Layer 001
+  - first:
+      74: 5862151939993050849
+    second: rocks.001|Tree 03|Take 001|Layer 001.001
+  - first:
+      74: -4107678447656958427
+    second: rocks.001|Tree 04|Take 001|Layer 001
+  - first:
+      74: -3764488566526348875
+    second: rocks.001|Tree 04|Take 001|Layer 001.001
+  - first:
+      74: -8830288273751899464
+    second: rocks.001|water|Take 001|Layer 001
+  - first:
+      74: -2848247655132041768
+    second: rocks.001|water|Take 001|Layer 001.001
+  - first:
+      74: 3902253683372080515
+    second: rocks.001|wildbeests|Take 001|Layer 001
+  - first:
+      74: -9131358649987385683
+    second: rocks.001|wildbeests|Take 001|Layer 001.001
+  - first:
+      74: -8640089756355652158
+    second: rocks.001|wombat|Take 001|Layer 001
+  - first:
+      74: -3331499740623304780
+    second: rocks.001|wombat|Take 001|Layer 001.001
+  - first:
+      74: 6664798982474150484
+    second: rocks.001|zebras|Take 001|Layer 001
+  - first:
+      74: 6181157241521087880
+    second: rocks.001|zebras|Take 001|Layer 001.001
+  - first:
+      74: -99177740957460959
+    second: rocks|alligator|Take 001|Layer 001
+  - first:
+      74: 8081572946219737881
+    second: rocks|alligator|Take 001|Layer 001.001
+  - first:
+      74: -3405525038851969728
+    second: rocks|base (2)|Take 001|Layer 001
+  - first:
+      74: 8466764536375034281
+    second: rocks|base (2)|Take 001|Layer 001.001
+  - first:
+      74: 9216045473188114645
+    second: rocks|base (3)|Take 001|Layer 001
+  - first:
+      74: -506093282271979801
+    second: rocks|base (3)|Take 001|Layer 001.001
+  - first:
+      74: -435732305978200161
+    second: rocks|base (4)|Take 001|Layer 001
+  - first:
+      74: 6015099145976287763
+    second: rocks|base (4)|Take 001|Layer 001.001
+  - first:
+      74: 8073286835920066937
+    second: rocks|base|Take 001|Layer 001
+  - first:
+      74: 5777675577513435224
+    second: rocks|base|Take 001|Layer 001.001
+  - first:
+      74: 4559512451098468416
+    second: rocks|Camera.001|Take 001|Layer 001
+  - first:
+      74: -1271961931758668145
+    second: rocks|Directional Light|Take 001|Layer 001
+  - first:
+      74: 5146180027203063319
+    second: rocks|elephant|Take 001|Layer 001
+  - first:
+      74: -7115875621041467022
+    second: rocks|elephant|Take 001|Layer 001.001
+  - first:
+      74: 2714397192619908362
+    second: rocks|gazelle (2)|Take 001|Layer 001
+  - first:
+      74: -2281720963306528997
+    second: rocks|gazelle (2)|Take 001|Layer 001.001
+  - first:
+      74: -5752502126732713121
+    second: rocks|giraffes|Take 001|Layer 001
+  - first:
+      74: 3430864598253253549
+    second: rocks|giraffes|Take 001|Layer 001.001
+  - first:
+      74: -352917789040172626
+    second: rocks|grass|Take 001|Layer 001
+  - first:
+      74: -837650362206086638
+    second: rocks|grass|Take 001|Layer 001.001
+  - first:
+      74: -6624383758883811640
+    second: rocks|land_v2|Take 001|Layer 001
+  - first:
+      74: -6486680900773861216
+    second: rocks|land_v2|Take 001|Layer 001.001
+  - first:
+      74: 8721324009116854397
+    second: rocks|land|Take 001|Layer 001
+  - first:
+      74: 3510379652631882418
+    second: rocks|land|Take 001|Layer 001.001
+  - first:
+      74: -7053919363497287246
+    second: rocks|leaves (2)|Take 001|Layer 001
+  - first:
+      74: -8580058146585836840
+    second: rocks|leaves (2)|Take 001|Layer 001.001
+  - first:
+      74: -7579833831621028264
+    second: rocks|leaves (3)|Take 001|Layer 001
+  - first:
+      74: -5453719821901486996
+    second: rocks|leaves (3)|Take 001|Layer 001.001
+  - first:
+      74: -2062074089104430154
+    second: rocks|leaves (4)|Take 001|Layer 001
+  - first:
+      74: 2495564349865499902
+    second: rocks|leaves (4)|Take 001|Layer 001.001
+  - first:
+      74: -2453210911836134311
+    second: rocks|leaves|Take 001|Layer 001
+  - first:
+      74: -1712884097567702405
+    second: rocks|leaves|Take 001|Layer 001.001
+  - first:
+      74: 6902221556970285598
+    second: rocks|lions|Take 001|Layer 001
+  - first:
+      74: 4253933595434269329
+    second: rocks|lions|Take 001|Layer 001.001
+  - first:
+      74: -1438777759222404808
+    second: rocks|marabou|Take 001|Layer 001
+  - first:
+      74: 8238294704035602503
+    second: rocks|marabou|Take 001|Layer 001.001
+  - first:
+      74: -2823163149744690731
+    second: rocks|Mesh.002|Take 001|Layer 001
+  - first:
+      74: -7224097960280180213
+    second: rocks|Mesh.003|Take 001|Layer 001
+  - first:
+      74: -1775700054845168686
+    second: rocks|Mesh|Take 001|Layer 001
+  - first:
+      74: 2702694102967692400
+    second: rocks|Mesh|Take 001|Layer 001.001
+  - first:
+      74: -4952250357563798371
+    second: rocks|Mesh|Take 001|Layer 001.002
+  - first:
+      74: -3200959738111689681
+    second: rocks|Mesh|Take 001|Layer 001.003
+  - first:
+      74: 6182003014846855012
+    second: rocks|Mesh|Take 001|Layer 001.004
+  - first:
+      74: 3888372919204832162
+    second: rocks|Mesh|Take 001|Layer 001.005
+  - first:
+      74: -8428832931637912576
+    second: rocks|Mesh|Take 001|Layer 001.006
+  - first:
+      74: 9158994824494684908
+    second: rocks|Mesh|Take 001|Layer 001.007
+  - first:
+      74: -3257162638505261298
+    second: rocks|rocks (2)|Take 001|Layer 001
+  - first:
+      74: -186026923267144771
+    second: rocks|rocks (2)|Take 001|Layer 001.001
+  - first:
+      74: -2510818353712260979
+    second: rocks|rocks|Take 001|Layer 001
+  - first:
+      74: -2116957467294528895
+    second: rocks|rocks|Take 001|Layer 001.001
+  - first:
+      74: 4855956276909332688
+    second: rocks|Texture Group|Take 001|Layer 001
+  - first:
+      74: 560498469087547270
+    second: rocks|Tree 01|Take 001|Layer 001
+  - first:
+      74: 2077284742892300634
+    second: rocks|Tree 01|Take 001|Layer 001.001
+  - first:
+      74: -7025324263239324123
+    second: rocks|Tree 02|Take 001|Layer 001
+  - first:
+      74: 3107342429476947027
+    second: rocks|Tree 02|Take 001|Layer 001.001
+  - first:
+      74: -2257040180883402174
+    second: rocks|Tree 03|Take 001|Layer 001
+  - first:
+      74: 8784190712090587288
+    second: rocks|Tree 03|Take 001|Layer 001.001
+  - first:
+      74: 5682695547942940051
+    second: rocks|Tree 04|Take 001|Layer 001
+  - first:
+      74: 8652997482303151746
+    second: rocks|Tree 04|Take 001|Layer 001.001
+  - first:
+      74: 1817848724574115725
+    second: rocks|water|Take 001|Layer 001
+  - first:
+      74: 8014685777532548042
+    second: rocks|water|Take 001|Layer 001.001
+  - first:
+      74: -9149950593824810142
+    second: rocks|wildbeests|Take 001|Layer 001
+  - first:
+      74: 9168371095403870370
+    second: rocks|wildbeests|Take 001|Layer 001.001
+  - first:
+      74: 9063120844187178056
+    second: rocks|wombat|Take 001|Layer 001
+  - first:
+      74: 441763861708870736
+    second: rocks|wombat|Take 001|Layer 001.001
+  - first:
+      74: -4599376839950803054
+    second: rocks|zebras|Take 001|Layer 001
+  - first:
+      74: 2603510768864371816
+    second: rocks|zebras|Take 001|Layer 001.001
+  - first:
+      74: 130544747977824285
+    second: rocks.004|alligator|Take 001|Layer 001
+  - first:
+      74: 2910632563448695995
+    second: rocks.004|alligator|Take 001|Layer 001.001
+  - first:
+      74: -2759821930331455983
+    second: rocks.004|base (2)|Take 001|Layer 001
+  - first:
+      74: -2931049161205524898
+    second: rocks.004|base (2)|Take 001|Layer 001.001
+  - first:
+      74: 5019538690766832426
+    second: rocks.004|base (3)|Take 001|Layer 001
+  - first:
+      74: -7600964438434382732
+    second: rocks.004|base (3)|Take 001|Layer 001.001
+  - first:
+      74: 6228345265439141589
+    second: rocks.004|base (4)|Take 001|Layer 001
+  - first:
+      74: 8669715208903469385
+    second: rocks.004|base (4)|Take 001|Layer 001.001
+  - first:
+      74: 5017448459892590181
+    second: rocks.004|base|Take 001|Layer 001
+  - first:
+      74: 5746865176048109197
+    second: rocks.004|base|Take 001|Layer 001.001
+  - first:
+      74: 1808008790887062164
+    second: rocks.004|Camera.001|Take 001|Layer 001
+  - first:
+      74: 537918618015008829
+    second: rocks.004|Directional Light|Take 001|Layer 001
+  - first:
+      74: 1624602432523920556
+    second: rocks.004|elephant|Take 001|Layer 001
+  - first:
+      74: -2333269034450020017
+    second: rocks.004|elephant|Take 001|Layer 001.001
+  - first:
+      74: -1898225540553507534
+    second: rocks.004|gazelle (2)|Take 001|Layer 001
+  - first:
+      74: -8036276626144976685
+    second: rocks.004|gazelle (2)|Take 001|Layer 001.001
+  - first:
+      74: 4416704968812336061
+    second: rocks.004|giraffes|Take 001|Layer 001
+  - first:
+      74: 7815156878115825458
+    second: rocks.004|giraffes|Take 001|Layer 001.001
+  - first:
+      74: 7297504957148441286
+    second: rocks.004|grass|Take 001|Layer 001
+  - first:
+      74: -6402356471175745524
+    second: rocks.004|grass|Take 001|Layer 001.001
+  - first:
+      74: 3494424823466977893
+    second: rocks.004|land_v2|Take 001|Layer 001
+  - first:
+      74: -5055187034838380027
+    second: rocks.004|land_v2|Take 001|Layer 001.001
+  - first:
+      74: -76092304788997425
+    second: rocks.004|land|Take 001|Layer 001
+  - first:
+      74: 3928869542601589019
+    second: rocks.004|land|Take 001|Layer 001.001
+  - first:
+      74: -4444510823710843697
+    second: rocks.004|leaves (2)|Take 001|Layer 001
+  - first:
+      74: -2988952846095148901
+    second: rocks.004|leaves (2)|Take 001|Layer 001.001
+  - first:
+      74: 3066342676479690533
+    second: rocks.004|leaves (3)|Take 001|Layer 001
+  - first:
+      74: -3423131397959210997
+    second: rocks.004|leaves (3)|Take 001|Layer 001.001
+  - first:
+      74: -2496476552705769561
+    second: rocks.004|leaves (4)|Take 001|Layer 001
+  - first:
+      74: 3869739849315372284
+    second: rocks.004|leaves (4)|Take 001|Layer 001.001
+  - first:
+      74: 1711761213572044727
+    second: rocks.004|leaves|Take 001|Layer 001
+  - first:
+      74: 5921843564524545668
+    second: rocks.004|leaves|Take 001|Layer 001.001
+  - first:
+      74: 743089843846872983
+    second: rocks.004|lions|Take 001|Layer 001
+  - first:
+      74: -8762022887497360426
+    second: rocks.004|lions|Take 001|Layer 001.001
+  - first:
+      74: -1245402212786265622
+    second: rocks.004|marabou|Take 001|Layer 001
+  - first:
+      74: -8537610692012068976
+    second: rocks.004|marabou|Take 001|Layer 001.001
+  - first:
+      74: -3053180612953793622
+    second: rocks.004|Mesh.002|Take 001|Layer 001
+  - first:
+      74: -2947309780686637374
+    second: rocks.004|Mesh.003|Take 001|Layer 001
+  - first:
+      74: -2071502964085905169
+    second: rocks.004|Mesh|Take 001|Layer 001
+  - first:
+      74: -1688148177742864893
+    second: rocks.004|Mesh|Take 001|Layer 001.001
+  - first:
+      74: 3718601047209610299
+    second: rocks.004|Mesh|Take 001|Layer 001.002
+  - first:
+      74: 8373692705893600125
+    second: rocks.004|Mesh|Take 001|Layer 001.003
+  - first:
+      74: 1559143144584203011
+    second: rocks.004|Mesh|Take 001|Layer 001.004
+  - first:
+      74: 304443338425733238
+    second: rocks.004|Mesh|Take 001|Layer 001.005
+  - first:
+      74: -1818662336192174012
+    second: rocks.004|Mesh|Take 001|Layer 001.006
+  - first:
+      74: -3406536944312804574
+    second: rocks.004|Mesh|Take 001|Layer 001.007
+  - first:
+      74: -5443494980678269714
+    second: rocks.004|rocks (2)|Take 001|Layer 001
+  - first:
+      74: 4717444635334139478
+    second: rocks.004|rocks (2)|Take 001|Layer 001.001
+  - first:
+      74: -942602284081616451
+    second: rocks.004|rocks|Take 001|Layer 001
+  - first:
+      74: 2928872767359498268
+    second: rocks.004|rocks|Take 001|Layer 001.001
+  - first:
+      74: -6395692880556671484
+    second: rocks.004|Texture Group|Take 001|Layer 001
+  - first:
+      74: -3917975996654323906
+    second: rocks.004|Tree 01|Take 001|Layer 001
+  - first:
+      74: -3067007191557873779
+    second: rocks.004|Tree 01|Take 001|Layer 001.001
+  - first:
+      74: -8621933145263127355
+    second: rocks.004|Tree 02|Take 001|Layer 001
+  - first:
+      74: 1148963682510744815
+    second: rocks.004|Tree 02|Take 001|Layer 001.001
+  - first:
+      74: 1084634232769119480
+    second: rocks.004|Tree 03|Take 001|Layer 001
+  - first:
+      74: 5500609562714177220
+    second: rocks.004|Tree 03|Take 001|Layer 001.001
+  - first:
+      74: -3651473560844667288
+    second: rocks.004|Tree 04|Take 001|Layer 001
+  - first:
+      74: 3045496268713608364
+    second: rocks.004|Tree 04|Take 001|Layer 001.001
+  - first:
+      74: -6582478008631267517
+    second: rocks.004|water|Take 001|Layer 001
+  - first:
+      74: 3401146364293928629
+    second: rocks.004|water|Take 001|Layer 001.001
+  - first:
+      74: -9152827904858059611
+    second: rocks.004|wildbeests|Take 001|Layer 001
+  - first:
+      74: -1863966210488464564
+    second: rocks.004|wildbeests|Take 001|Layer 001.001
+  - first:
+      74: 2576127136711000683
+    second: rocks.004|wombat|Take 001|Layer 001
+  - first:
+      74: 7722065226411531979
+    second: rocks.004|wombat|Take 001|Layer 001.001
+  - first:
+      74: -4394351661866131944
+    second: rocks.004|zebras|Take 001|Layer 001
+  - first:
+      74: 5819619376792826133
+    second: rocks.004|zebras|Take 001|Layer 001.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 33
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 2
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
